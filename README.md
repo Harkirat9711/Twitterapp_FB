@@ -1,6 +1,6 @@
 # project1-app FB Twitter GAE APP
 
-This is the source code for Project 1 of CS6320 built using GAE datastore, bootstrap CSS and facebook Javascript SDK. 
+This is the source code of the Project built using GAE datastore, bootstrap CSS and facebook Javascript SDK. 
 
 The app lets you post a status on timeline or send a status as message to friend. 
 
@@ -20,7 +20,4 @@ After you have created a web application project on eclipse :
 
 There is a running app here http://1-dot-project1-test-168922.appspot.com/
 
-
-cheers :)  
-Imran malik
 # Twitterapp_FB
