@@ -18,6 +18,6 @@ After you have created a web application project on eclipse :
 
 ## APP Running Demo
 
-There is a running app here http://1-dot-project1-test-168922.appspot.com/
+There is a running app here https://apps.facebook.com/tweetapp_by_harkirat
 
 # Twitterapp_FB
